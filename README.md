@@ -28,7 +28,7 @@ A modular, production-ready transcription and summarization application that com
 
 ### 1. Clone or Navigate to Project
 ```powershell
-cd e:\NLP Cellula\WhisperNotesApp
+git clone https://github.com/Menna2211/WhisperNotesApp.git
 ```
 
 ### 2. Create Virtual Environment (Optional but Recommended)
